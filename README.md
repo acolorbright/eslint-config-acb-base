@@ -9,3 +9,8 @@ The plugin requires `eslint` and the following other packages:
   - `eslint-plugin-compat`
   - `eslint-plugin-extra-rules`
   - `eslint-plugin-import`
+
+```shell
+$ npm install --save acolorbright/eslint-config-acb-base#v1.0
+$ npm install --save-dev eslint-plugin-compat@2.2.0 eslint-plugin-extra-rules@0.8.1 eslint-plugin-import@2.9.0
+```
