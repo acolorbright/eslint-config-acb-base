@@ -26,7 +26,7 @@
     "eslint-config-airbnb-base": "12.1.0"
   },
   "devDependencies": {
-    "babel-preset-acb": "git+https://github.com/acolorbright/babel-preset-acb.git#v1.0.2",
+    "babel-preset-acb": "git+https://github.com/acolorbright/babel-preset-acb.git#v1.0.3",
     "eslint": "4.18.1",
     "eslint-plugin-compat": "2.2.0",
     "eslint-plugin-extra-rules": "0.8.1",
