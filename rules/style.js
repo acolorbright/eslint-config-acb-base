@@ -9,6 +9,6 @@ module.exports = {
       ImportDeclaration: { multiline: true, minProperties: 4 },
       ExportDeclaration: { consistent: true },
     }],
-    'sort-keys': 'warn',
+    'sort-keys': 0,
   },
 };
