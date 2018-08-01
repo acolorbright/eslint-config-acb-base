@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-acb-base",
-  "version": "2.0",
+  "version": "2.0.1",
   "description": "ACB's base JS ESLint config.",
   "main": "index.js",
   "scripts": {
