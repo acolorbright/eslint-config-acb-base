@@ -11,7 +11,7 @@ The plugin requires `eslint` and the following other packages:
   - `eslint-plugin-import`
 
 ```shell
-$ npm install --save-dev 'acolorbright/eslint-config-acb-base#v2.0.1' eslint-plugin-compat@2.5.0 eslint-plugin-extra-rules@0.8.1 eslint-plugin-import@2.13.0
+$ npm install --save-dev 'acolorbright/eslint-config-acb-base#v2.0.0' eslint-plugin-compat@2.5.0 eslint-plugin-extra-rules@0.8.1 eslint-plugin-import@2.13.0
 ```
 
 Then add `"extends": "acb-base"` to your `.eslintrc` file.
