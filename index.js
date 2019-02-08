@@ -3,7 +3,6 @@ module.exports = {
     'eslint-config-airbnb-base',
     'eslint-config-airbnb-base/rules/strict',
     './rules/best-practices',
-    './rules/compat',
     './rules/es6',
     './rules/extras',
     './rules/imports',

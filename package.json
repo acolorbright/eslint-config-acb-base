@@ -28,13 +28,11 @@
   "devDependencies": {
     "babel-preset-acb": "git+https://github.com/acolorbright/babel-preset-acb.git#v1.0.3",
     "eslint": "5.12.1",
-    "eslint-plugin-compat": "2.6.3",
     "eslint-plugin-extra-rules": "0.8.1",
     "eslint-plugin-import": "2.15.0"
   },
   "peerDependencies": {
     "eslint": "5.12.1",
-    "eslint-plugin-compat": "2.6.3",
     "eslint-plugin-extra-rules": "0.8.1",
     "eslint-plugin-import": "2.15.0"
   }
