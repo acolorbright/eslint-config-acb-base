@@ -6,12 +6,11 @@ This plugin provides ACB's base JS `.eslintrc` (without React plugins) as an ext
 ## Installation
 
 The plugin requires `eslint` and the following other packages:
-  - `eslint-plugin-compat`
   - `eslint-plugin-extra-rules`
   - `eslint-plugin-import`
 
 ```shell
-$ npm install --save-dev 'acolorbright/eslint-config-acb-base#v2.0.2' eslint-plugin-compat@2.5.0 eslint-plugin-extra-rules@0.8.1 eslint-plugin-import@2.13.0
+$ npm install --save-dev 'acolorbright/eslint-config-acb-base#v3.0.0' eslint@5.16.0 eslint-plugin-extra-rules@0.8.1 eslint-plugin-import@2.16.0
 ```
 
 Then add `"extends": "acb-base"` to your `.eslintrc` file.
