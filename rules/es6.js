@@ -7,6 +7,7 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
+    'arrow-parens': ['error', 'always'],
     'prefer-destructuring': [
       'error', {
         VariableDeclarator: {
