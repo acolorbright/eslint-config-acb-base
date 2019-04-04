@@ -26,14 +26,14 @@
     "eslint-config-airbnb-base": "13.1.0"
   },
   "devDependencies": {
-    "babel-preset-acb": "git+https://github.com/acolorbright/babel-preset-acb.git#v1.0.3",
-    "eslint": "5.12.1",
+    "babel-preset-acb": "git+https://github.com/acolorbright/babel-preset-acb.git#v2.1.0",
+    "eslint": "5.16.0",
     "eslint-plugin-extra-rules": "0.8.1",
-    "eslint-plugin-import": "2.15.0"
+    "eslint-plugin-import": "2.16.0"
   },
   "peerDependencies": {
-    "eslint": "5.12.1",
+    "eslint": "5.16.0",
     "eslint-plugin-extra-rules": "0.8.1",
-    "eslint-plugin-import": "2.15.0"
+    "eslint-plugin-import": "2.16.0"
   }
 }
