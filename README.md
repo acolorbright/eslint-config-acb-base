@@ -10,7 +10,7 @@ The plugin requires `eslint`, `babel-eslint`, and the following other packages:
   - `eslint-plugin-import`
 
 ```shell
-$ npm install --save-dev 'acolorbright/eslint-config-acb-base#v3.1.1' babel-eslint@10.x eslint@6.x eslint-plugin-extra-rules@^0.8 eslint-plugin-import@2.x
+$ npm install --save-dev 'acolorbright/eslint-config-acb-base#v4.0.0' babel-eslint@10.x eslint@6.x eslint-plugin-extra-rules@^0.8 eslint-plugin-import@2.x
 ```
 
 Then add `"extends": "acb-base"` to your `.eslintrc` file.
