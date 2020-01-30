@@ -1,4 +1,18 @@
 module.exports = {
+  root: true,
+  parser: 'babel-eslint',
+  env: {
+    browser: true,
+    commonjs: true,
+    es6: true,
+    es2020: true,
+    jest: true,
+    node: true,
+  },
+  parserOptions: {
+    ecmaVersion: 2020,
+    sourceType: 'module',
+  },
   extends: [
     'eslint-config-airbnb-base',
     'eslint-config-airbnb-base/rules/strict',
@@ -8,8 +22,4 @@ module.exports = {
     './rules/imports',
     './rules/style',
   ].map(require.resolve),
-  parserOptions: {
-    ecmaVersion: 2018,
-    sourceType: 'module',
-  },
 };
